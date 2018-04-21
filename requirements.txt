@@ -4,3 +4,4 @@ djangorestframework
 requests==2.18.4
 coreapi
 gunicorn
+dj-database-url==0.2.1
